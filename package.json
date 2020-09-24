@@ -1,6 +1,6 @@
 {
-  "name": "@szymon.dukla/replaceall",
-  "version": "1.0.1",
+  "name": "@szymon.dukla/replaceall-js",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
