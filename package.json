@@ -1,0 +1,22 @@
+{
+  "name": "@szymon.dukla/replaceall",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SzymonDukla/replaceall.git"
+  },
+  "author": "Szymon Dukla <hello@szymondukla.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SzymonDukla/replaceall/issues"
+  },
+  "homepage": "https://github.com/SzymonDukla/replaceall#readme",
+  "dependencies": {
+    "string.prototype.replaceall": "^1.0.3"
+  }
+}
